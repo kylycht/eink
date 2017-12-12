@@ -1,0 +1,14 @@
+{
+  "name": "eink-app",
+  "version": "",
+  "description": "eink",
+  "main": "main.py",
+  "author": "auth",
+  "license": "",
+  "language":"python",
+  "scripts": {
+     "start": "python main.py"
+    },
+   "dependency": null
+}
+
